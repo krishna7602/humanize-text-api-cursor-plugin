@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "humanize-text-api": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sse",
+        "https://humanize-text-5k0heugxg-r-krishna-mondals-projects.vercel.app/sse"
+      ]
+    }
+  }
+}
